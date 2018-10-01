@@ -28,11 +28,6 @@ public class PracticaGIT {
         post=in.nextLine();
     }
     
-    public static void fantasma(){
-        int ghost;
-        Scanner in = new Scanner(System.in);
-        System.out.print("Donem un numero");
-        ghost=in.nextInt();
-    }
+    
 }
 
