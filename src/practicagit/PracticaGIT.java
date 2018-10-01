@@ -20,5 +20,12 @@ public class PracticaGIT {
         System.out.print("Escriu la provincia");
         ciut=in.nextLine();
     }
+    
+    public static void CodiPostal(){
+        String post;
+        Scanner in = new Scanner(System.in);
+        System.out.print("Escriu la provincia");
+        post=in.nextLine();
+    }
 }
 
