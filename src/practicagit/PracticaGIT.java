@@ -27,5 +27,9 @@ public class PracticaGIT {
         System.out.print("Escriu la provincia");
         post=in.nextLine();
     }
+    
+    public static void fantasma(){
+        
+    }
 }
 
