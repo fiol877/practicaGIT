@@ -29,10 +29,10 @@ public class PracticaGIT {
     }
     
     public static void fantasma(){
-        String ghost;
+        int ghost;
         Scanner in = new Scanner(System.in);
-        System.out.print("Ets un fantasma?");
-        ghost=in.nextLine();
+        System.out.print("Donem un numero");
+        ghost=in.nextInt();
     }
 }
 
