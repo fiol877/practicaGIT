@@ -14,5 +14,11 @@ public class PracticaGIT {
         prov=in.nextLine();
     }
     
+    public static void Ciutat(){
+        String ciut;
+        Scanner in = new Scanner(System.in);
+        System.out.print("Escriu la provincia");
+        ciut=in.nextLine();
+    }
 }
 
